@@ -19,25 +19,13 @@ Efficient web scraping plays a crucial role in optimizing information retrieval 
 
 ## Technologies Used
 
-### Python
+### Libraries
 1. Selenium
 2. BeautifulSoup
 3. Pandas
 4. Requests
 5. Rate Limit 
 
-### Web Scraping Libraries
-1. Selenium WebDriver
-2. BeautifulSoup
-
 ## Results
 
 After implementing web scraping techniques using Python, Selenium, and BeautifulSoup, users can efficiently extract targeted information from websites. The extracted data can be further processed, analyzed, and used for various purposes, depending on the project's objectives.
-
-Feel free to explore the codebase, experiment with different websites, and contribute to the ongoing development of this web scraping project. Your involvement could contribute to the enhancement of web scraping methodologies and their application in real-world scenarios.
-
-If you have any questions or suggestions, please don't hesitate to reach out. Thank you for your interest in our Web Scraping project!
-
-## Code
-
-You can find the code files and notebooks associated with this project in the [code](link-to-code-folder) directory.
