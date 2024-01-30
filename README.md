@@ -6,7 +6,7 @@ Welcome to the Web Scraping project! The primary goal of this project is to extr
 
 ## Code
 
-You can find the code files and notebooks associated with this project in the [code](https://github.com/fauzansayyed/Python-Web-Sraping/blob/main/Github%20Webscraping%20-%20Jupyter%20Notebook.pdf).
+You can find the code files and notebooks associated with this project in the [code](https://github.com/fauzansayyed/Python-Web-Sraping/blob/main/Webscraping.ipynb).
 
 
 ## Project Overview
